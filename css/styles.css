@@ -1,5 +1,7 @@
 body{
     background-color:lightcyan;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:large;
     }
 hr {
     border-style:none;
@@ -15,3 +17,7 @@ h1 {
 h3 {
     color:#66bfbf;
     }
+p {
+    font-size:x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
